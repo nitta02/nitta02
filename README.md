@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with [Quotes_App](https://github.com/nitta02/Quotes_App)
 
-- 👨‍💻 All of my projects are available at [https://l.facebook.com/l.php?u=https%3A%2F%2Fnittoranjansarkertanmoy02.github.io%2FPortfolio-Website.github.io%2F%3Ffbclid%3DIwAR3wnaDrV8HC2F90B8uvn_BBH9yBQ8N5U6Rk2uaNukjqzIwAepxOjlL1-p4&h=AT0J3JDCT3kmvecLuIF4p5dadGJ4n6_foFKGCztfj3gELz9npcbbgcr6v7nJcOi0qzi-iktf9-vE1Q24EcNVSL3GpbN_dXCxpI1JeZv2cl2YVsoW07aj_9HcuwVvH6OT990oyw](https://l.facebook.com/l.php?u=https%3A%2F%2Fnittoranjansarkertanmoy02.github.io%2FPortfolio-Website.github.io%2F%3Ffbclid%3DIwAR3wnaDrV8HC2F90B8uvn_BBH9yBQ8N5U6Rk2uaNukjqzIwAepxOjlL1-p4&h=AT0J3JDCT3kmvecLuIF4p5dadGJ4n6_foFKGCztfj3gELz9npcbbgcr6v7nJcOi0qzi-iktf9-vE1Q24EcNVSL3GpbN_dXCxpI1JeZv2cl2YVsoW07aj_9HcuwVvH6OT990oyw)
-
 - 💬 Ask me about **Html,Css,JavaScript,Java,C,Python**
 
 - 📫 How to reach me **nittaranjantanmoy23@gmail.com**
