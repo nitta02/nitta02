@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on [Profile-O](https://github.com/nitta02/profile_app)
 
-- 🌱 I’m currently learning **Flutter, Kotlin**
+- 🌱 I’m currently learning **Kotlin**
+  
+- 🌱 I’m currently working using **DART, FLUTTER**
 
 - 👯 I’m looking to collaborate on [Quotes_App](https://github.com/nitta02/Quotes_App)
 
