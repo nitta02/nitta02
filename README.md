@@ -3,16 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitta02&label=Profile%20views&color=0e75b6&style=flat" alt="nitta02" /> </p>
 - 🔭 I’m currently working on [Profile-O](https://github.com/nitta02/profile_app)
-
-- 🌱 I’m currently learning **Kotlin**
   
-- 🌱 I’m currently working using **DART, FLUTTER**
+- 🌱 I’m currently working using **DART, FLUTTER, FIREBASE**
 
 - 👯 I’m looking to collaborate on [Quotes_App](https://github.com/nitta02/Quotes_App)
 
 - 🤝 I’m looking for help with [Quotes_App](https://github.com/nitta02/Quotes_App)
 
-- 💬 Ask me about **Html,Css,JavaScript,Java,C,Python**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, C, PYTHON**
 
 - 📫 How to reach me **nittaranjantanmoy23@gmail.com**
 
