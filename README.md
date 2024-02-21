@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitta02&label=Profile%20views&color=0e75b6&style=flat" alt="nitta02" /> </p>
-- 🔭 I’m looking to collaborate on [PROFILE-O]_(https://github.com/nitta02/Profile-O)
-  
+
 - 🌱 I’m currently working using **DART, FLUTTER, FIREBASE**
 
 - 👯 I’m looking to collaborate on [Quotes_App](https://github.com/nitta02/Quotes_App)
