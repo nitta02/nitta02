@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Quotes_App](https://github.com/nitta02/Quotes_App)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, C, PYTHON**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, C, PYTHON , Flutter, Most Imp. Product Design**
 
 - 📫 How to reach me **nittaranjantanmoy23@gmail.com**
 
