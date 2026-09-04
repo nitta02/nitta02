@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently working using **DART, FLUTTER, FIREBASE**
 
-- 👯 I’m looking to collaborate on [Quotes_App](https://github.com/nitta02/Quotes_App)
-
-- 🤝 I’m looking for help with [Quotes_App](https://github.com/nitta02/Quotes_App)
-
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, C, PYTHON , Flutter, Most Imp. Product Design**
 
 - 📫 How to reach me **nittaranjantanmoy23@gmail.com**
