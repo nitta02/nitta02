@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nitta Ranjan Sarker</h1>
-<h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Nitta Ranjan Sarker mostly known by Tonmoy Vision </h1>
+<h3 align="center">A passionate Product Designer & Front-end Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitta02&label=Profile%20views&color=0e75b6&style=flat" alt="nitta02" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, C, PYTHON , Flutter, Most Imp. Product Design**
 
-- 📫 How to reach me **nittaranjantanmoy23@gmail.com**
+- 📫 How to reach me **nrsbussiness21@gmail.com**
 
 
 <!-- <h3 align="left">Languages and Tools:</h3>
